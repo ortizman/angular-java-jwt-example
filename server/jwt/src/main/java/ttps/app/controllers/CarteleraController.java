@@ -24,7 +24,7 @@ public class CarteleraController {
     public Cartelera getCarteleras(@PathVariable("id") Long id) {
         return carteleraDAO.getAllCarteleras().stream().filter(
                 cartelera -> cartelera.getId().equals(id)
-        ).findFirst().get();
+        ).findFirst().orElse(null);
     }
 
 }

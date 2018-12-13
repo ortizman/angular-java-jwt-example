@@ -13,7 +13,7 @@ public class UsuarioDAO {
 
     public UsuarioDAO() {
         this.usuarios = new ArrayList<>();
-        this.usuarios.add(new Usuario("Manuel", "ortizman", "ttps2018"));
+        this.usuarios.add(new Usuario("Manuel", "manuel", "ttps2018"));
         this.usuarios.add(new Usuario("Pepe", "pepeluis", "ttps2018"));
     }
 
