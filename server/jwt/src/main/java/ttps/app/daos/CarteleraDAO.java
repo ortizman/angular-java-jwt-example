@@ -6,6 +6,9 @@ import ttps.app.model.Cartelera;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author manuel
+ */
 @Repository
 public class CarteleraDAO {
 

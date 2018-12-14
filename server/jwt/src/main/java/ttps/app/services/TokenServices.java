@@ -8,6 +8,11 @@ import java.security.Key;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * Servicio para gestionar los tokens de authenticacion
+ *
+ * @author manuel
+ */
 @Service
 public class TokenServices {
 

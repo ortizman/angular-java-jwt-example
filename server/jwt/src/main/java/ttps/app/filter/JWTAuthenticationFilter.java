@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
+ * @author manuel
  * Filtro Servlet que chequea la validez del token JWT.
  */
 @WebFilter(filterName = "jwt-auth-filter", urlPatterns = "*")

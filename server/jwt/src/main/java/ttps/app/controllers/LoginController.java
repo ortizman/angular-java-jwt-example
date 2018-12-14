@@ -13,6 +13,9 @@ import ttps.app.model.UsernaneAndPassword;
 import ttps.app.model.Usuario;
 import ttps.app.services.TokenServices;
 
+/**
+ * @author manuel
+ */
 @RestController
 public class LoginController {
 

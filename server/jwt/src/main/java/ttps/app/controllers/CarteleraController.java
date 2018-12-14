@@ -9,6 +9,9 @@ import ttps.app.model.Cartelera;
 
 import java.util.List;
 
+/**
+ * @author manuel
+ */
 @RestController
 public class CarteleraController {
 

@@ -1,5 +1,8 @@
 package ttps.app.model;
 
+/**
+ * @author manuel
+ */
 public class Credentials {
 
     private String token;

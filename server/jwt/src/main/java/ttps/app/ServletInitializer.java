@@ -3,6 +3,9 @@ package ttps.app;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
+/**
+ * @author manuel
+ */
 public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override

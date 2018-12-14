@@ -1,5 +1,8 @@
 package ttps.app.model;
 
+/**
+ * @author manuel
+ */
 public class UsernaneAndPassword {
 
     private String username;

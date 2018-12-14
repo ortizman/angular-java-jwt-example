@@ -2,6 +2,9 @@ package ttps.app.model;
 
 import java.util.Random;
 
+/**
+ * @author manuel
+ */
 public class Cartelera {
 
     private String nombre;

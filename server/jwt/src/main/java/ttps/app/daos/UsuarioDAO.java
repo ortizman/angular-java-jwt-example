@@ -6,6 +6,9 @@ import ttps.app.model.Usuario;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author manuel
+ */
 @Repository
 public class UsuarioDAO {
 
