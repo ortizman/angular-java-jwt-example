@@ -26,7 +26,7 @@ public class LoginController {
     private TokenServices tokenServices;
 
     // un dia
-    private final int EXPIRATION_IN_SEC = 86400;
+    private final int EXPIRATION_IN_SEC = 10;
 
     @PostMapping(path = "/auth")
     public ResponseEntity<?> authenticate(@RequestBody UsernaneAndPassword userpass) {
