@@ -17,6 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <java.target>1.8</java.target>
     </properties>
 
     <dependencies>
