@@ -3,16 +3,26 @@ Ejemplo de como authorizar un usuario usando JWT con Java y Angular
 
 ## Clonar el repo
 
-``` git clone git@github.com:ortizman/ttps-jwt.git ```
+```shell 
+git clone git@github.com:ortizman/ttps-jwt.git 
+```
 
 > Alternativamente, se pueden descargar el codigo fuente sin usar git desde [aca](https://github.com/ortizman/ttps-jwt/archive/master.zip)
 ## Levantar el Cliente
 El cliente esta construido usando Angular 7. 
 
 1. Ingresar a la carpeta __client__  
-    ```cd client/angular-jwt-auth ```
+    ```shell
+    cd client/angular-jwt-auth 
+    ```
+1. Instalar las dependencias  
+    ```shell 
+    npm i
+    ```
 1. Usar el __cli__ de angular para levantar el frontend  
-    ```ng serve --open```
+    ```shell 
+    $(npm bin)/ng serve --open
+    ```
     > Pueden instalar el cli de angular usando el comando:   
     ```npm install -g @angular/cli ```
 
