@@ -1,6 +1,6 @@
 # AngularJwtAuth
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
+Actualizado a la version 11 de Angular
 
 ## Development server
 
