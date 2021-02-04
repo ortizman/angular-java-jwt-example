@@ -9,7 +9,7 @@ git clone git@github.com:ortizman/ttps-jwt.git
 
 > Alternativamente, se pueden descargar el codigo fuente sin usar git desde [aca](https://github.com/ortizman/ttps-jwt/archive/master.zip)
 ## Levantar el Cliente
-El cliente esta construido usando Angular 7. 
+El cliente esta construido usando Angular 11. 
 
 1. Ingresar a la carpeta __client__  
     ```shell
