@@ -16,8 +16,8 @@ public class UsuarioDAO {
 
     public UsuarioDAO() {
         this.usuarios = new ArrayList<>();
-        this.usuarios.add(new Usuario("Manuel", "manuel", "ttps2019"));
-        this.usuarios.add(new Usuario("Pepe", "pepeluis", "ttps2019"));
+        this.usuarios.add(new Usuario("Manuel", "manuel", "Prueba123"));
+        this.usuarios.add(new Usuario("Pepe", "pepeluis", "Prueba123"));
     }
 
     public Usuario getUsuarioPorUsername(String username) {
