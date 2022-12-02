@@ -1,2 +1,6 @@
 server/.DS_Store
 .DS_Store
+server/.idea
+server/jwt/.idea
+.idea
+
