@@ -39,3 +39,6 @@ Para poder hacer login en el frontend, es necesario que el server este levantado
     ```./mvnw clean package```
 1. Ejecutar  
     ```export SERVER_CONTEXT_PATH=/jwt && java -jar target/jwt.war```
+
+## Collection de Postman
+Podes importar esta collection a Postman y ver los ejemplos de invocación a los web-services.

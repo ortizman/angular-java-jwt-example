@@ -5,6 +5,7 @@ import java.util.Random;
 /**
  * @author manuel
  */
+
 public class Cartelera {
 
     private String nombre;
@@ -32,5 +33,13 @@ public class Cartelera {
 
     public void setId(Long id) {
         this.id = id;
+    }
+
+    @Override
+    public String toString() {
+        return "Cartelera{" +
+                "nombre='" + nombre + '\'' +
+                ", id=" + id +
+                '}';
     }
 }

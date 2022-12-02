@@ -22,4 +22,9 @@ public class CarteleraDAO {
     public List<Cartelera> getAllCarteleras() {
         return carteleras;
     }
+
+    public List<Cartelera> setAllCarteleras(List<Cartelera> carteleras) {
+        this.carteleras.addAll(carteleras);
+        return this.carteleras;
+    }
 }
