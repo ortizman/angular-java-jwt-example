@@ -21,7 +21,7 @@ El cliente esta construido usando Angular 11.
     ```
 1. Usar el __cli__ de angular para levantar el frontend  
     ```shell 
-    $(npm bin)/ng serve --open
+    ./node_modules/.bin/ng serve --open
     ```
     > Pueden instalar el cli de angular usando el comando:   
     ```npm install -g @angular/cli ```
